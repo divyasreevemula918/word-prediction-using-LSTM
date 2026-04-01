@@ -1,9 +1,9 @@
 pandas
-numpy
-tensorflow==2.15.0
 nltk
 matplotlib
 scikit-learn
 tensorboard
-streamlit
 scikeras
+streamlit==1.33.0
+tensorflow==2.15.0
+numpy==1.26.4
